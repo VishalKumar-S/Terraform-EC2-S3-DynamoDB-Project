@@ -7,8 +7,9 @@ This is a basic terraform project to create ec2 instance though terraform and us
 terraform init
 # Dry-run
 terraform plan
-# apply the change
+# Apply the change
 terraform apply
+
 4. Run main.tf of local folder to create ec2 instance, use the above commands in order.
 5. Run main.tf of remote folder to create S3 bucket, dynamo db use the above commands in order.
 6. Now, after successful completion of creating all the resources, configure the local main.tf to save the state file in the backend server by pasting the below command in the terraform block of local main.tf file
