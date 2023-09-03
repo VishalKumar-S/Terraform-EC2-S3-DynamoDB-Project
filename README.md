@@ -1,4 +1,6 @@
 # Terraform_project🚀
+![terraform_8](https://github.com/VishalKumar-S/Terraform-EC2-S3-DynamoDB-Project/assets/118868521/d66aa041-cc9b-4ec0-8d5e-d60f4b404e70)
+
 This is a basic terraform project to create ec2 instance though terraform and use s3 bucket as backend server and lock the state file by integrating with the Dynamo DB.
 1. Install and verify terrafrom in linux: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 2. Clone the repository and go to the directory 
